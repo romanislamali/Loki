@@ -23,11 +23,9 @@ public class LokiDemoApplication {
 		logger.warn("This is a warning log");
 		try {
 			double result = 1/0;
-			double result2 = result + 5;
 		} catch (Exception e) {
 			logger.error("custom logger: ", e);
 		}
-		logger.error("This is an error log");
 	}
 
 }
