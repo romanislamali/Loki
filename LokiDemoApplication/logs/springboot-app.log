@@ -1,0 +1,168 @@
+2025-05-26T04:55:04.538Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
+2025-05-26T04:55:04.570Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T04:55:06.707Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T04:55:06.737Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T04:55:06.739Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T04:55:06.806Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T04:55:06.808Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2069 ms
+2025-05-26T04:55:06.950Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T04:55:06.954Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T04:55:06.956Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T04:55:07.620Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T04:55:07.654Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 4.594 seconds (process running for 5.967)
+2025-05-26T05:32:52.849Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T05:32:52.870Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T06:28:12.728Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
+2025-05-26T06:28:12.736Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T06:28:14.223Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T06:28:14.255Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T06:28:14.256Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T06:28:14.318Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T06:28:14.319Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1468 ms
+2025-05-26T06:28:14.435Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T06:28:14.436Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T06:28:14.438Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T06:28:15.006Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T06:28:15.037Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.701 seconds (process running for 4.678)
+2025-05-26T06:53:15.218Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T06:53:15.235Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T06:53:52.673Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
+2025-05-26T06:53:52.683Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T06:53:54.496Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T06:53:54.521Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T06:53:54.522Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T06:53:54.577Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T06:53:54.578Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1760 ms
+2025-05-26T06:53:54.674Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T06:53:54.675Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T06:53:54.676Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T06:53:55.181Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T06:53:55.206Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.871 seconds (process running for 4.808)
+2025-05-26T07:10:02.469Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T07:10:02.486Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T07:10:39.095Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
+2025-05-26T07:10:39.108Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T07:10:40.780Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T07:10:40.809Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T07:10:40.810Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T07:10:40.888Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T07:10:40.890Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1600 ms
+2025-05-26T07:10:41.006Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T07:10:41.007Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T07:10:41.009Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T07:10:41.520Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T07:10:41.548Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 4.109 seconds (process running for 5.055)
+2025-05-26T07:12:47.521Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T07:12:47.562Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T07:19:51.619Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
+2025-05-26T07:19:51.629Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T07:19:53.236Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T07:19:53.263Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T07:19:53.264Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T07:19:53.317Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T07:19:53.318Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1559 ms
+2025-05-26T07:19:53.419Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T07:19:53.419Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T07:19:53.420Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T07:19:53.915Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T07:19:53.942Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.799 seconds (process running for 4.699)
+2025-05-26T07:23:42.738Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T07:23:42.762Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T08:22:30.752Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-26T08:22:30.763Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T08:22:32.421Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T08:22:32.449Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T08:22:32.450Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T08:22:32.519Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T08:22:32.521Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1562 ms
+2025-05-26T08:22:32.642Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T08:22:32.643Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T08:22:32.643Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T08:22:33.187Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T08:22:33.215Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 4.163 seconds (process running for 5.177)
+2025-05-26T08:37:18.521Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T08:37:18.543Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T08:37:52.456Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-26T08:37:52.463Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T08:37:56.009Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T08:37:56.061Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T08:37:56.065Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T08:37:56.164Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T08:37:56.166Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3403 ms
+2025-05-26T08:37:56.436Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T08:37:56.437Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T08:37:56.438Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T08:37:57.488Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T08:37:57.526Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 7.502 seconds (process running for 8.617)
+2025-05-26T09:00:48.521Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T09:00:48.539Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T09:01:15.994Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-26T09:01:16.019Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T09:01:19.020Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T09:01:19.058Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T09:01:19.059Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T09:01:19.148Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T09:01:19.150Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2876 ms
+2025-05-26T09:01:19.325Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T09:01:19.327Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T09:01:19.328Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T09:01:20.311Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T09:01:20.353Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 6.621 seconds (process running for 7.645)
+2025-05-26T09:05:59.935Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T09:05:59.961Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T09:06:32.513Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-26T09:06:32.519Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T09:06:35.896Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T09:06:35.952Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T09:06:35.953Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T09:06:36.032Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T09:06:36.033Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3188 ms
+2025-05-26T09:06:36.279Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T09:06:36.280Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T09:06:36.281Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T09:06:37.189Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T09:06:37.223Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 6.895 seconds (process running for 8.147)
+2025-05-26T09:09:34.789Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T09:09:34.809Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T09:09:49.347Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-26T09:09:49.365Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T09:09:52.438Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T09:09:52.476Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T09:09:52.476Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T09:09:52.589Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T09:09:52.591Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2975 ms
+2025-05-26T09:09:52.844Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T09:09:52.845Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T09:09:52.849Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T09:09:53.898Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T09:09:53.953Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 6.541 seconds (process running for 7.556)
+2025-05-26T09:14:18.908Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T09:14:18.925Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T09:34:35.234Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-26T09:34:35.240Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T09:34:36.729Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T09:34:36.757Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T09:34:36.759Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T09:34:36.810Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T09:34:36.811Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1460 ms
+2025-05-26T09:34:36.927Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T09:34:36.929Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T09:34:36.931Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T09:34:37.435Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T09:34:37.458Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.22 seconds (process running for 3.924)
+2025-05-26T09:49:55.157Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T09:49:55.177Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-26T09:50:19.864Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-26T09:50:19.871Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
+2025-05-26T09:50:23.045Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-05-26T09:50:23.085Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-26T09:50:23.086Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-26T09:50:23.181Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-26T09:50:23.185Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3139 ms
+2025-05-26T09:50:23.386Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
+2025-05-26T09:50:23.388Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
+2025-05-26T09:50:23.389Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
+2025-05-26T09:50:24.644Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-05-26T09:50:24.682Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 7.253 seconds (process running for 8.481)
+2025-05-26T12:53:09.747Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-26T12:53:09.834Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete

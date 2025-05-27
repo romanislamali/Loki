@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  springboot-app:
+    build:
+      context: .
+    container_name: springboot-app
+    ports:
+      - "8088:8088"
+    volumes:
+      - ./logs:/app/logs
+#      - ./logs:/logs
+    depends_on:
+      - loki
+
+  loki:
+    image: grafana/loki:2.9.4
+    container_name: loki
+    ports:
+      - "3100:3100"
+    command: -config.file=/etc/loki/local-config.yaml
+
+  promtail:
+    image: grafana/promtail:2.9.4
+    container_name: promtail
+    volumes:
+      - ./logs:/var/log
+      - ./promtail-config.yml:/etc/promtail/config.yml
+    command: -config.file=/etc/promtail/config.yml
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
