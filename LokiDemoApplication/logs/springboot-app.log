@@ -1,168 +1,171 @@
-2025-05-26T04:55:04.538Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
-2025-05-26T04:55:04.570Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T04:55:06.707Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T04:55:06.737Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T04:55:06.739Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T04:55:06.806Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T04:55:06.808Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2069 ms
-2025-05-26T04:55:06.950Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T04:55:06.954Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T04:55:06.956Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T04:55:07.620Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T04:55:07.654Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 4.594 seconds (process running for 5.967)
-2025-05-26T05:32:52.849Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T05:32:52.870Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T06:28:12.728Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
-2025-05-26T06:28:12.736Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T06:28:14.223Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T06:28:14.255Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T06:28:14.256Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T06:28:14.318Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T06:28:14.319Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1468 ms
-2025-05-26T06:28:14.435Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T06:28:14.436Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T06:28:14.438Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T06:28:15.006Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T06:28:15.037Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.701 seconds (process running for 4.678)
-2025-05-26T06:53:15.218Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T06:53:15.235Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T06:53:52.673Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
-2025-05-26T06:53:52.683Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T06:53:54.496Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T06:53:54.521Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T06:53:54.522Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T06:53:54.577Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T06:53:54.578Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1760 ms
-2025-05-26T06:53:54.674Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T06:53:54.675Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T06:53:54.676Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T06:53:55.181Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T06:53:55.206Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.871 seconds (process running for 4.808)
-2025-05-26T07:10:02.469Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T07:10:02.486Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T07:10:39.095Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
-2025-05-26T07:10:39.108Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T07:10:40.780Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T07:10:40.809Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T07:10:40.810Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T07:10:40.888Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T07:10:40.890Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1600 ms
-2025-05-26T07:10:41.006Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T07:10:41.007Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T07:10:41.009Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T07:10:41.520Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T07:10:41.548Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 4.109 seconds (process running for 5.055)
-2025-05-26T07:12:47.521Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T07:12:47.562Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T07:19:51.619Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app.jar started by root in /)
-2025-05-26T07:19:51.629Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T07:19:53.236Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T07:19:53.263Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T07:19:53.264Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T07:19:53.317Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T07:19:53.318Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1559 ms
-2025-05-26T07:19:53.419Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T07:19:53.419Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T07:19:53.420Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T07:19:53.915Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T07:19:53.942Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.799 seconds (process running for 4.699)
-2025-05-26T07:23:42.738Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T07:23:42.762Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T08:22:30.752Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
-2025-05-26T08:22:30.763Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T08:22:32.421Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T08:22:32.449Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T08:22:32.450Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T08:22:32.519Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T08:22:32.521Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1562 ms
-2025-05-26T08:22:32.642Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T08:22:32.643Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T08:22:32.643Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T08:22:33.187Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T08:22:33.215Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 4.163 seconds (process running for 5.177)
-2025-05-26T08:37:18.521Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T08:37:18.543Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T08:37:52.456Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
-2025-05-26T08:37:52.463Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T08:37:56.009Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T08:37:56.061Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T08:37:56.065Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T08:37:56.164Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T08:37:56.166Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3403 ms
-2025-05-26T08:37:56.436Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T08:37:56.437Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T08:37:56.438Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T08:37:57.488Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T08:37:57.526Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 7.502 seconds (process running for 8.617)
-2025-05-26T09:00:48.521Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T09:00:48.539Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T09:01:15.994Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
-2025-05-26T09:01:16.019Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T09:01:19.020Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T09:01:19.058Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T09:01:19.059Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T09:01:19.148Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T09:01:19.150Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2876 ms
-2025-05-26T09:01:19.325Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T09:01:19.327Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T09:01:19.328Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T09:01:20.311Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T09:01:20.353Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 6.621 seconds (process running for 7.645)
-2025-05-26T09:05:59.935Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T09:05:59.961Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T09:06:32.513Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
-2025-05-26T09:06:32.519Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T09:06:35.896Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T09:06:35.952Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T09:06:35.953Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T09:06:36.032Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T09:06:36.033Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3188 ms
-2025-05-26T09:06:36.279Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T09:06:36.280Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T09:06:36.281Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T09:06:37.189Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T09:06:37.223Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 6.895 seconds (process running for 8.147)
-2025-05-26T09:09:34.789Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T09:09:34.809Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T09:09:49.347Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
-2025-05-26T09:09:49.365Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T09:09:52.438Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T09:09:52.476Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T09:09:52.476Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T09:09:52.589Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T09:09:52.591Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2975 ms
-2025-05-26T09:09:52.844Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T09:09:52.845Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T09:09:52.849Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T09:09:53.898Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T09:09:53.953Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 6.541 seconds (process running for 7.556)
-2025-05-26T09:14:18.908Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T09:14:18.925Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T09:34:35.234Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
-2025-05-26T09:34:35.240Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T09:34:36.729Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T09:34:36.757Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T09:34:36.759Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T09:34:36.810Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T09:34:36.811Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1460 ms
-2025-05-26T09:34:36.927Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T09:34:36.929Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T09:34:36.931Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T09:34:37.435Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T09:34:37.458Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 3.22 seconds (process running for 3.924)
-2025-05-26T09:49:55.157Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T09:49:55.177Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-05-26T09:50:19.864Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
-2025-05-26T09:50:19.871Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : No active profile set, falling back to 1 default profile: "default"
-2025-05-26T09:50:23.045Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
-2025-05-26T09:50:23.085Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-05-26T09:50:23.086Z  INFO 1 --- [LokiDemoApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
-2025-05-26T09:50:23.181Z  INFO 1 --- [LokiDemoApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-05-26T09:50:23.185Z  INFO 1 --- [LokiDemoApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3139 ms
-2025-05-26T09:50:23.386Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Hello from Spring Boot - this is an info log
-2025-05-26T09:50:23.388Z  WARN 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is a warning log
-2025-05-26T09:50:23.389Z ERROR 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : This is an error log
-2025-05-26T09:50:24.644Z  INFO 1 --- [LokiDemoApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
-2025-05-26T09:50:24.682Z  INFO 1 --- [LokiDemoApplication] [main] c.e.L.LokiDemoApplication                : Started LokiDemoApplication in 7.253 seconds (process running for 8.481)
-2025-05-26T12:53:09.747Z  INFO 1 --- [LokiDemoApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-05-26T12:53:09.834Z  INFO 1 --- [LokiDemoApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-05-27 12:41:58.107 [main] INFO  c.e.L.LokiDemoApplicationTests - Starting LokiDemoApplicationTests using Java 17.0.15 with PID 27384 (started by roman in /home/roman/roman/my projects/Loki/LokiDemoApplication)
+2025-05-27 12:41:58.109 [main] INFO  c.e.L.LokiDemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-05-27 12:41:59.102 [main] INFO  c.e.L.LokiDemoApplication - Hello from Spring Boot - this is an info log
+2025-05-27 12:41:59.102 [main] WARN  c.e.L.LokiDemoApplication - This is a warning log
+2025-05-27 12:41:59.102 [main] ERROR c.e.L.LokiDemoApplication - custom logger: 
+java.lang.ArithmeticException: / by zero
+	at com.example.LokiDemoApplication.LokiDemoApplication.init(LokiDemoApplication.java:25)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:401)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:219)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:429)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1818)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1188)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1123)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:144)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1462)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:563)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:144)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:110)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:200)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:139)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:159)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:388)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:382)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:382)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:293)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:292)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:281)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:280)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:27)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:112)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:111)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:128)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:128)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:170)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:94)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:59)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:142)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:194)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:150)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2025-05-27 12:41:59.105 [main] ERROR c.e.L.LokiDemoApplication - This is an error log
+2025-05-27 12:41:59.702 [main] INFO  c.e.L.LokiDemoApplicationTests - Started LokiDemoApplicationTests in 2.284 seconds (process running for 3.561)
+2025-05-27 12:42:55.097 [main] INFO  c.e.L.LokiDemoApplication - Starting LokiDemoApplication v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2025-05-27 12:42:55.114 [main] INFO  c.e.L.LokiDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-27 12:42:58.783 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8088 (http)
+2025-05-27 12:42:58.807 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2025-05-27 12:42:58.812 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-27 12:42:58.812 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-05-27 12:42:58.900 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-27 12:42:58.906 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3538 ms
+2025-05-27 12:42:59.058 [main] INFO  c.e.L.LokiDemoApplication - Hello from Spring Boot - this is an info log
+2025-05-27 12:42:59.059 [main] WARN  c.e.L.LokiDemoApplication - This is a warning log
+2025-05-27 12:42:59.059 [main] ERROR c.e.L.LokiDemoApplication - custom logger: 
+java.lang.ArithmeticException: / by zero
+	at com.example.LokiDemoApplication.LokiDemoApplication.init(LokiDemoApplication.java:25)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:401)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:219)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:429)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1818)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1188)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1123)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351)
+	at com.example.LokiDemoApplication.LokiDemoApplication.main(LokiDemoApplication.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:102)
+	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:64)
+	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
+2025-05-27 12:42:59.062 [main] ERROR c.e.L.LokiDemoApplication - This is an error log
+2025-05-27 12:43:00.427 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2025-05-27 12:43:00.460 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8088 (http) with context path '/'
+2025-05-27 12:43:00.493 [main] INFO  c.e.L.LokiDemoApplication - Started LokiDemoApplication in 8.171 seconds (process running for 9.191)
