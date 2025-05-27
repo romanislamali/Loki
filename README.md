@@ -6,15 +6,25 @@ This is a simple Spring Boot application integrated with **Grafana Loki**, **Pro
 
 ## 🧱 Project Structure
 LokiDemoApplication/
+
 ├── Dockerfile
+
 ├── docker-compose.yml
+
 ├── promtail-config.yml
+
 ├── logs/
+
 │ └── springboot-app.log
+
 ├── src/
+
 │ └── main/java/com/example/LokiDemoApplication
+
 │ └── LokiDemoApplication.java
+
 ├── application.properties
+
 └── README.md
 
 ---
